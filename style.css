@@ -1,0 +1,44 @@
+body {
+    background-color:darkblue;
+    
+}
+h1 {
+    color:lightblue;
+    font-family:verdana;
+    text-align:center;
+}
+h2 {
+    color:tomato;
+    font-family:courier;
+}
+p {
+    color:tomato;
+    border: 2px solid powderblue;
+    font-family:arial;
+    
+}
+a{
+    color:tomato;
+    
+}
+a:hover {
+    color:hotpink;
+}
+
+button {
+    background-color:tomato;
+    border:none;
+    color:powderblue;
+    text-align:center;
+    transition-duration:0.5s;
+    padding:50px 75px 50px 75px;
+    font-size:30px;
+    font-family:verdana;
+    font-weight:bold;
+    
+}
+button:hover {
+    background-color:hotpink;
+    color:tomato;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
